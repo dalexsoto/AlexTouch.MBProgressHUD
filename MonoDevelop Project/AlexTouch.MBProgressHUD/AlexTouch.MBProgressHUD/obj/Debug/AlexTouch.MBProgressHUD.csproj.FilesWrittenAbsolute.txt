@@ -1,0 +1,4 @@
+/Users/Alex/Projects/AlexTouch.MBProgressHUD/AlexTouch.MBProgressHUD/bin/Debug/AlexTouch.MBProgressHUD.dll.mdb
+/Users/Alex/Projects/AlexTouch.MBProgressHUD/AlexTouch.MBProgressHUD/bin/Debug/AlexTouch.MBProgressHUD.dll
+/Users/Alex/Projects/AlexTouch.MBProgressHUD/AlexTouch.MBProgressHUD/obj/Debug/AlexTouch.MBProgressHUD.dll
+/Users/Alex/Projects/AlexTouch.MBProgressHUD/AlexTouch.MBProgressHUD/obj/Debug/AlexTouch.MBProgressHUD.dll.mdb
